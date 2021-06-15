@@ -1,10 +1,3 @@
-# Gabriel-Medrado
+<h2 align='center'> Fala Devs !!! 👋 </h2> 
 
-<h2 align='center'> Fala Devs !!!👋 </h2> 
-
-<li>
-  <h3 align='center'>Sou estudante de ciência da computação, Focado no desenvolvimento WEB </h3>
-
-👨🏾‍💻 Focado no desenvolvimento WEB
-
-</li>
+<h3 align='center'> <li> Sou estudante de ciência da computação focado no desenvolvimento WEB </li> </h3>
