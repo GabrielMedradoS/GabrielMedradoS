@@ -1,13 +1,12 @@
-<h3 align = 'center'> Fala Devs !!! 👋 </h3> 
+<h3 > Fala Devs !!! 👋 </h3> 
 
-<h4 align = 'center'> Sou um estudante entrando nesse mundo novo da tecnologia </h4>
+<h4 > Sou um estudante entrando nesse mundo novo da tecnologia </h4>
 
 👨‍💻 Ciencia da computação 
-🎨 Desenvolvimento WEB
+🎨 Desenvolvimento WEB 
 📚 Atualmente estudando React Js
 
-
-<h3>🛠 Tecnologias : HTML, CSS, JS </h3>
+<h4>🛠 Tecnologias : HTML, CSS, JS </h4>
 
 Segue para contato:<br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-medrado-de-souza-9a30b3206/)
