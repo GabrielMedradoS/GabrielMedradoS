@@ -1,9 +1,14 @@
-<h2 align='center'> Fala Devs !!! 👋 </h2> 
+<h3 align = 'center'> Fala Devs !!! 👋 </h3> 
 
-<h3 align='center'> <li> Sou estudante de ciência da computação focado no desenvolvimento WEB </li> </h3>
+<h4 align = 'center'> Sou um estudante entrando nesse mundo novo da tecnologia </h4>
 
-<h3 align='center'> Conhecimento em: HTML, CSS, JS </h3>
+👨‍💻 Ciencia da computação 
+🎨 Desenvolvimento WEB
+📚 Atualmente estudando React Js
 
-[![Linkedin ](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-medrado-de-souza-9a30b3206/)](https://www.linkedin.com/in/gabriel-medrado-de-souza-9a30b3206/)
 
-[![Github ](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabrielMedradoS)](https://github.com/GabrielMedradoS)
+<h3>🛠 Tecnologias : HTML, CSS, JS </h3>
+
+Segue para contato:<br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-medrado-de-souza-9a30b3206/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/)
