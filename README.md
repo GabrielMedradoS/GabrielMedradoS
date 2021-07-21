@@ -13,8 +13,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-GabrielMedrado-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gab_medrado/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.medradoo@hotmail.com-1769ff?style=flat-square&logo=Gmail&logoColor=white)](mailto:gbdesigns13@gmail.com)
   
-<p>
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="30" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  height="30" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" width="40"/>
-</p> 
+</div> 
