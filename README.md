@@ -10,7 +10,7 @@
 
 ✉️ Segue para contato:
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielMedrado-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-medrado-de-souza-9a30b3206/) 
-[![Instagram Badge](https://img.shields.io/badge/-GabrielMedrado-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gab_medrado/)
+[![Instagram Badge](https://img.shields.io/badge/-gab_medrado-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gab_medrado/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.medradoo@hotmail.com-1769ff?style=flat-square&logo=Gmail&logoColor=white)](mailto:gbdesigns13@gmail.com)
   
 <div>
