@@ -7,8 +7,15 @@
 <li>📚 Atualmente estudando React Js
   
  <li>❤ Kingdoms Hearts 
+   
+### Some stats:
+<div>
+  <a href="https://github.com/GabrielMedradoS">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielMedradoS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedradoS&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-✉️ Segue para contato:
+ ✉️ Segue para contato:
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielMedrado-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-medrado-de-souza-9a30b3206/) 
 [![Instagram Badge](https://img.shields.io/badge/-GabrielMedrado-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gab_medrado/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.medradoo@hotmail.com-1769ff?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabriel.medradoo@hotmail.com)
@@ -19,10 +26,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30" width="40"/>
 </div> 
-   
-### Some stats:
-<div align="center">
-  <a href="https://github.com/GabrielMedradoS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielMedradoS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedradoS&layout=compact&langs_count=7&theme=dracula"/>
-</div>
