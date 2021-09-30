@@ -19,8 +19,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30" width="40"/>
 </div> 
-
    
 ### Some stats:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielMedradoS&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedradoS&layout=compact&theme=dracula)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielMedradoS&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMedradoS&layout=compact&theme=dracula)
