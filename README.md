@@ -4,7 +4,7 @@
 <ul>
 <li>👨‍💻 Ciencia da computação 
 <li>🎨 Desenvolvimento WEB 
-<li>📚 Atualmente estudando React Js 
+<li>📚 Atualmente estudando React Js e Next.js
 <li>❤ Kingdoms Hearts 
    
 ### Some stats:
